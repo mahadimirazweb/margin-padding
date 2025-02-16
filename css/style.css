@@ -1,0 +1,12 @@
+.box{
+    width: 200px;
+    height: 100px;
+}
+.blue{
+    background-color: blue;
+    padding: 30px;
+}
+.chocolate{
+    margin: 50px;
+    background-color: chocolate;
+}
